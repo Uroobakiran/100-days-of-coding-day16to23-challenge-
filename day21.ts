@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // **Day 21 Challenge: Start Coding!** 
 
 // **Question 61:** Making Enums for Vehicles:

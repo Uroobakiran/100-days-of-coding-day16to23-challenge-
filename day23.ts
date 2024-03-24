@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 //  **Day 23 Challenge: Start Coding!** 
 
 // **Question 67:** Arithmetic with Mixed Types:

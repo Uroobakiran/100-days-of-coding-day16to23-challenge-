@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // 🚀 **Day 20 Challenge: Start Coding!** 🚀
 
 // **Question 58:** Average Score Calculator:

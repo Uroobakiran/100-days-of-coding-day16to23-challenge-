@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // *Question 46:** Enhanced Laptop Object: 
 // Construct an object for a laptop including properties
 //  `make`, `model`, `year`, and a method `describe()` that

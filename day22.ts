@@ -1,5 +1,4 @@
-// Assalamualaikum @everyone 👋
-
+#!/usr/bin/env node
 // 🚀 **Day 22 Challenge: Start Coding!** 🚀
 
 // **Question 64:** Combine Strings and Numbers:

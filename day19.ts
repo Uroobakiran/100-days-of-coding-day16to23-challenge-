@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 //  **Day 19 Challenge: Start Coding!** 
 
 // **Question 55:** Double Numbers in an Array: 
